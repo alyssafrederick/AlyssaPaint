@@ -1,0 +1,17 @@
+D:\GMR\alyssapaint\alyssapaint\bin\Debug\alyssapaint.exe.config
+D:\GMR\alyssapaint\alyssapaint\bin\Debug\alyssapaint.exe
+D:\GMR\alyssapaint\alyssapaint\bin\Debug\alyssapaint.pdb
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\alyssapaint.csprojResolveAssemblyReference.cache
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\MainWindow.g.cs
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\App.g.cs
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\alyssapaint_MarkupCompile.cache
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\alyssapaint_MarkupCompile.lref
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\MainWindow.baml
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\alyssapaint.g.resources
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\alyssapaint.Properties.Resources.resources
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\alyssapaint.csproj.GenerateResource.Cache
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\alyssapaint.exe
+D:\GMR\alyssapaint\alyssapaint\obj\Debug\alyssapaint.pdb
+E:\GMR\alyssapaint\alyssapaint\bin\Debug\alyssapaint.exe.config
+E:\GMR\alyssapaint\alyssapaint\obj\Debug\alyssapaint.exe
+E:\GMR\alyssapaint\alyssapaint\obj\Debug\alyssapaint.pdb

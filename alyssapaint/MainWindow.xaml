@@ -1,0 +1,19 @@
+﻿<Window x:Class="alyssapaint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:alyssapaint"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="362.069" Width="574.282" MouseDown="Window_MouseDown" MouseMove="Window_MouseMove" MouseUp="Window_MouseUp" MouseLeave="Window_MouseLeave" KeyDown="Window_KeyDown">
+
+    <Grid>
+        <Canvas x:Name="canvas" Margin="0" Background="Black"/>
+        <UniformGrid x:Name="grid" Rows="2" Columns="2">
+            <Canvas x:Name="leftTopCanvas" Margin="0"/>
+            <Canvas x:Name="rightTopCanvas" Margin="0"/>
+            <Canvas x:Name="leftBottomCanvas" Margin="0"/>
+            <Canvas x:Name="rightBottomCanvas" Margin="0"/>
+        </UniformGrid>
+    </Grid>
+</Window>
